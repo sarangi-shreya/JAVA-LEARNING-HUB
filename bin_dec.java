@@ -4,7 +4,7 @@ class bin_dec {
 	
 	public static void convert(int n)
 	{
-		int[] binary = new int[50];
+		int[] binary = new int[50]; //Creating an Array
         	int j,x,i = 0;
 		x = n;
 		while (n > 0)
@@ -26,3 +26,4 @@ class bin_dec {
        
 	}
 }
+
