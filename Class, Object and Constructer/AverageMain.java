@@ -1,3 +1,5 @@
+//Write a program to print the average of three numbers entered by user by creating a class named 'Average' having a method to calculate and print the average. 
+//Define another driver class to demonstrate the basic operation
 import java.util.Scanner;
 class Average {
     public void calAvg(int a, int b, int c) {
